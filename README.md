@@ -1,4 +1,5 @@
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+
 Hi there! 👋
 
 I'm Nikolay, an IT system clerk with a passion for solving problems and helping users troubleshoot software issues. 
@@ -16,6 +17,7 @@ Whether it’s delving into a new programming language or understanding the intr
 areas. Whether it's enhancing my knowledge of web development or diving into more advanced programming languages, I’m excited about the road ahead.
 
 Feel free to reach out if you want to collaborate on a project or just chat about technology!
+
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 
 Copyright © 2024 Nikolay.
@@ -38,6 +40,7 @@ This means that all resources in this repository can be freely used, modified, a
 ░░░██║░░░██╔══██║██╔══██║██║╚████║██╔═██╗░  ░░╚██╔╝░░██║░░██║██║░░░██║
 ░░░██║░░░██║░░██║██║░░██║██║░╚███║██║░╚██╗  ░░░██║░░░╚█████╔╝╚██████╔╝
 ░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝  ░░░╚═╝░░░░╚════╝░░╚═════╝░
+
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me! I'm always happy to help or discuss any projects you might be working on. 
