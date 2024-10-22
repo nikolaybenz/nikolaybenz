@@ -31,11 +31,13 @@ distribute, sublicense, and/or sell copies of the Resources, and to permit perso
 
 This means that all resources in this repository can be freely used, modified, and redistributed, including for commercial purposes.
 
-░░▄▀▀▀▄░▄▄░░░░░░╠▓░░░░
-░░░▄▀▀▄█▄░▀▄░░░▓╬▓▓▓░░
-░░▀░░░░█░▀▄░░░▓▓╬▓▓▓▓░
-░░░░░░▐▌░░░░▀▀███████▀
-▒▒▄██████▄▒▒▒▒▒▒▒▒▒▒▒▒
+
+████████╗██╗░░██╗░█████╗░███╗░░██╗██╗░░██╗  ██╗░░░██╗░█████╗░██╗░░░██╗
+╚══██╔══╝██║░░██║██╔══██╗████╗░██║██║░██╔╝  ╚██╗░██╔╝██╔══██╗██║░░░██║
+░░░██║░░░███████║███████║██╔██╗██║█████═╝░  ░╚████╔╝░██║░░██║██║░░░██║
+░░░██║░░░██╔══██║██╔══██║██║╚████║██╔═██╗░  ░░╚██╔╝░░██║░░██║██║░░░██║
+░░░██║░░░██║░░██║██║░░██║██║░╚███║██║░╚██╗  ░░░██║░░░╚█████╔╝╚██████╔╝
+░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝  ░░░╚═╝░░░░╚════╝░░╚═════╝░
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me! I'm always happy to help or discuss any projects you might be working on. 
